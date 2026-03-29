@@ -200,5 +200,5 @@ On Tron and Solana, stablecoin transfer volume for sub-$1,000 transactions has g
 ## Risk Watch
 
 Concentration risk remains high — three issuers control 92% of supply. Regulatory action against any of them, or a de-peg event, could have outsized market impact. The MiCA framework's reserve requirements in Europe are seen as a positive step toward reducing tail risk in the sector.`,
-  },
+  }
 ]
