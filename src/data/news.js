@@ -200,5 +200,53 @@ On Tron and Solana, stablecoin transfer volume for sub-$1,000 transactions has g
 ## Risk Watch
 
 Concentration risk remains high — three issuers control 92% of supply. Regulatory action against any of them, or a de-peg event, could have outsized market impact. The MiCA framework's reserve requirements in Europe are seen as a positive step toward reducing tail risk in the sector.`,
-  }
+  },
+    {
+    id: 7,
+    category: "Macro",
+    tag: "FX Markets",
+    title: "Nigerian Naira Hits Record Lows as Iran-US Conflict Drives Oil Shock and Dollar Flight",
+    summary: "The naira has lost over 18% of its value in three weeks as the escalating Iran-US conflict pushes oil markets into chaos, triggers a global risk-off surge in dollar demand, and squeezes Nigeria's already strained foreign reserves.",
+    date: "2026-03-27",
+    readTime: "5 min read",
+    content: `The Nigerian naira is in freefall. In less than a month, the currency has shed **18.4%** against the US dollar — sliding from ₦1,580/$ to ₦1,871/$ at the official NAFEM window, with parallel market rates pushing past ₦2,100/$. The trigger is the escalating military standoff between Iran and the United States, which has unleashed a cascade of macroeconomic shocks that Nigeria is poorly positioned to absorb.
+
+## The Iran-US Conflict and the Oil Paradox
+
+At first glance, a conflict in the Persian Gulf should benefit Nigeria — Africa's largest oil producer. Brent crude spiked to $134/barrel in the opening days of hostilities as markets priced in potential Strait of Hormuz disruptions. But the effect on Nigeria has been the opposite of what many expected.
+
+**Why Nigeria isn't winning on oil:**
+- Nigeria's daily output has declined to roughly 1.3 million barrels per day due to ongoing pipeline vandalism and underinvestment — far below its OPEC quota of 1.8 mbpd
+- The bulk of Nigeria's oil revenues are locked into forward sale agreements and joint venture obligations, limiting the government's immediate dollar inflows
+- Petrol subsidies were partially reinstated earlier this year under political pressure, meaning higher oil prices translate to higher subsidy costs, not windfall revenue
+
+## Dollar Scarcity and Capital Flight
+
+The broader global impact of the conflict has been a violent **flight to safety**. Institutional investors are unwinding positions in frontier and emerging markets and piling into US Treasuries and the dollar. This dynamic is hitting every African currency hard, but Nigeria's structural vulnerabilities amplify the pain.
+
+The Central Bank of Nigeria (CBN) has intervened twice in the past week, selling a combined $210 million from reserves to defend the naira — but foreign reserves have already fallen to $32.4 billion, a level analysts describe as providing less than five months of import cover.
+
+## Import Cost Crisis
+
+Nigeria imports the majority of its refined petroleum, industrial machinery, pharmaceuticals, and food staples. A weaker naira directly raises the cost of all of these. Early data from port authorities in Lagos and Apapa show a sharp drop in import volumes as businesses struggle to source foreign exchange at any price.
+
+**Sectors feeling the most pain:**
+- **Manufacturing**: Raw material costs up 34% year-on-year; several factories have reduced shifts
+- **Aviation**: Airlines operating naira-denominated routes are hemorrhaging money as dollar-priced fuel costs surge
+- **Healthcare**: Imported drugs and medical equipment now cost significantly more in naira terms; some hospitals report stockouts of critical medications
+
+## The CBN's Difficult Position
+
+The Central Bank faces a classic trilemma. Raising interest rates aggressively could attract some portfolio inflows but would crush an already fragile domestic economy. Burning reserves to defend the naira is unsustainable. Allowing a free float risks a disorderly crash that further erodes confidence.
+
+Governor Olayemi Cardoso hinted at an emergency monetary policy committee meeting but has not confirmed a rate decision timeline. The CBN has asked exporters to repatriate dollar earnings within 90 days — a measure that has had limited enforcement success in the past.
+
+## On-Chain Activity Spikes
+
+Notably, peer-to-peer trading volumes for USDT and USDC on Nigerian platforms have surged **67%** week-over-week. Nigerians are increasingly using stablecoins as a dollar hedge, bypassing the official FX window entirely. This echoes the playbook seen during the 2022–2023 naira crisis, when crypto P2P volumes made Nigeria one of the highest-volume crypto markets globally on a per-capita basis.
+
+## Outlook
+
+Most FX analysts are not calling a bottom yet. If the Iran-US conflict escalates further — particularly if it draws in Gulf producers and triggers broader Strait of Hormuz closures — the combined effect of a stronger dollar, weaker oil output revenues, and rising import costs could push the naira past ₦2,500/$ before any structural relief arrives. Nigeria's next external debt service payment of $500 million is due in June, adding another pressure point to an already stretched reserve position.`,
+  },
 ]
